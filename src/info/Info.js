@@ -82,10 +82,10 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Bonjour ! Je m'appelle Selin et je suis étudiante en développement web à OpenClassrooms. Passionnée par les technologies JavaScript, je me consacre à acquérir des compétences solides dans ce domaine dynamique. Actuellement, je suis à la recherche d'une opportunité professionnelle qui me permettra de mettre en pratique mes connaissances et de contribuer à des projets innovants. Découvrez mon portfolio pour explorer mes réalisations du développement web.",
     skills:
     {
-        proficientWith: ['javascript', 'react', 'git', 'github', 'html5', 'css3', 'figma'],
+        proficientWith: ['javascript', 'react', 'git', 'github', 'html', 'css', 'figma'],
         exposedTo: ['nodejs']
     }
     ,
@@ -95,15 +95,11 @@ export const info = {
             emoji: '📖'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
-        },
-        {
-            label: 'movies',
+            label: 'films',
             emoji: '🎥'
         },
         {
-            label: 'cooking',
+            label: 'cuisine',
             emoji: '🌶'
         }
         // Same as above, change the emojis to match / relate to your hobbies or interests.
@@ -111,34 +107,46 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
+            title: "Projet 2 - Booki",
             live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
+            title: "Projet 3 - Sophie Buel",
             live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock2
         },
         {
-            title: "Project 3",
+            title: "Projet 4 - Nina Corducci",
             live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock3
         },
         {
-            title: "Project 4",
+            title: "Projet 5 - Kasa",
             live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock4
         },
         {
-            title: "Project 5",
+            title: "Projet 6 - Mon vieux Grimoire",
             live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock5
-        }
+        },
+        {
+            title: "Projet 7 - Menu Maker by Qwenta",
+            live: "https://paytonpierce.dev",
+            source: "https://github.com/paytonjewell",
+            image: mock5
+        },
+        {
+            title: "Projet 8 - Mon portfolio",
+            live: "https://paytonpierce.dev",
+            source: "https://github.com/paytonjewell",
+            image: mock5
+        },
     ]
 }
