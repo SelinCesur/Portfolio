@@ -4,6 +4,8 @@ import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
+import mock6 from "../img/mock6.png"
+import mock7 from "../img/mock7.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -108,45 +110,40 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Projet 2 - Booki",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            source: "https://github.com/SelinCesur/booki-starter-code", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Projet 3 - Sophie Buel",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Projet 3 - Sophie Bluel",
+            source: "https://github.com/SelinCesur/Portfolio-architecte-sophie-bluel",
             image: mock2
         },
         {
             title: "Projet 4 - Nina Corducci",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://selincesur.github.io/Nina-Carducci-Dev/",
+            source: "https://github.com/SelinCesur/Nina-Carducci-Dev",
             image: mock3
         },
         {
             title: "Projet 5 - Kasa",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            source: "https://github.com/SelinCesur/Projet5Kasa",
             image: mock4
         },
         {
             title: "Projet 6 - Mon vieux Grimoire",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            source: "https://github.com/SelinCesur/P7-Dev-Web-livres/",
             image: mock5
         },
         {
             title: "Projet 7 - Menu Maker by Qwenta",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
+            source: "https://wonderful-equipment-a0c.notion.site/8867ce8c18f04a8d9f789c2565cf8b09?v=18b4dc7fb57d4366b5a29746a7b72347&pvs=4",
+            image: mock6
         },
         {
             title: "Projet 8 - Mon portfolio",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
+            live: "https://selincesur.github.io/Portfolio/",
+            source: "https://github.com/SelinCesur/Portfolio",
+            image: mock7
         },
     ]
 }
