@@ -111,7 +111,19 @@ export const info = {
         {
             title: "Projet 2 - Booki",
             source: "https://github.com/SelinCesur/booki-starter-code", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            image: mock1,
+            Description: " Dans ce projet, j’ai appris  à créer une page d'accueil pour une agence de voyage en utilisant HTML et CSS. J’ai intégrer l'interface responsive du site en suivant des maquettes Figma et en écrivant mon propre code. J’ai  découper la maquette, ajouter le header, le formulaire de recherche, les cartes d'hébergements et activités, les filtres, une carte d'hébergement spécifique, et le footer. J’ai  vérifier la compatibilité sur tous les écrans et la qualité de mon code avec les standards du W3C. Ce projet m’a permis de développer des compétences en front-end et d'offrir une expérience utilisateur optimale sur différents appareils.", 
+
+            Problématique:"AAA",
+
+            Compétences:" Implémenter une interface responsive avec HTML et CSS, intégrer du contenu conformément à une maquette avec HTML et CSS ,Versionner le projet avec Git et Github Installation d’un environnement de développement front-end ", 
+
+
+
+        
+           
+
+
         },
         {
             title: "Projet 3 - Sophie Bluel",
